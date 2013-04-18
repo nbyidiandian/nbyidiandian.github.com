@@ -12,7 +12,7 @@ pygments: true
 title : Jekyll Bootstrap
 tagline: Site Tagline
 author :
-  name : Jianhao
+  name : JianHao
   email : nbyidiandian@gmail.com
   github : nbyidiandian
   twitter : username
@@ -26,7 +26,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://nbyidiandian.github.com
+production_url : http://lishihu.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
