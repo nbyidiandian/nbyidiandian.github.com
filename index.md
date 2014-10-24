@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Home
-tagline: 每天NB一点点
+title: 李师胡
+tagline: A little NB-er every day / 每天NB一点点
 ---
 {% include JB/setup %}
 
