@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "土豪必备技能 —— 外币汇入/汇出/换汇"
+title: "currency exchange"
 description: ""
 category: other
 tags: [外汇, 换汇, 美股, 期权, 行权]
